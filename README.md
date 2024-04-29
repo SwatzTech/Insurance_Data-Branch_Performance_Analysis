@@ -1,4 +1,4 @@
-# Insurance_Data-Branch_Performance_Analysis
+# Insurance Data - Branch Performance Analysis
 
 ## Project Overview
 This comprehensive analysis project aims to provide a holistic view of the branch's operations by intertwining insurance market dynamics with employee performance metrics.
@@ -9,10 +9,10 @@ A Branch dashboard needs to be created to discuss New and renewal business numbe
 The branch's transactions and other data have been split up across 6 csv files : invoices, brokerage, fees, Individual budgets, meeting, opportunity
 
 ## Tools Used
-Microsoft Excel - Data Cleaning using Power Query, Data Merging and Basic Dashboard creation
-Power BI - Visualisation using graphs and charts - Dashboard and Reporting
-Tableau - Visualisation using graphs and charts - Dashboard and Reporting
-MySQL - Quality Analysis
+- Microsoft Excel - Data Cleaning using Power Query, Data Merging and Basic Dashboard creation
+- Power BI - Visualisation using graphs and charts - Dashboard and Reporting
+- Tableau - Visualisation using graphs and charts - Dashboard and Reporting
+- MySQL - Quality Analysis
 
 ## Data Cleaning/ Preparation
 - Data Loading and Inspection
